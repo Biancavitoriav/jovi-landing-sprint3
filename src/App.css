@@ -174,7 +174,7 @@ button {
   transform: translateY(-1px);
 }
 
-.etiqueta {
+.tag {
   display: inline-block;
   font-size: 13px;
   font-weight: 500;
@@ -183,19 +183,19 @@ button {
   margin-bottom: 20px;
 }
 
-.etiqueta-clara {
+.tag-clara {
   background: rgba(255, 255, 255, .12);
   color: var(--cor-branco);
   border: 1px solid rgba(255, 255, 255, .5);
 }
 
-.etiqueta-contorno {
+.tag-contorno {
   background: transparent;
   color: var(--cor-principal);
   border: 1.5px solid var(--cor-principal);
 }
 
-.etiqueta-escura {
+.tag-escura {
   color: var(--cor-branco);
   border-color: var(--cor-branco);
 }
