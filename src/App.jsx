@@ -10,7 +10,7 @@ import Footer from './components/Footer'
 function App() {
   return (
     <>
-      <a class="pular-link" href="#conteudo">Pular para o conteúdo</a>
+      <a className="pular-link" href="#conteudo">Pular para o conteúdo</a>
       <Header />
       <main id="conteudo">
         <Solucao />
